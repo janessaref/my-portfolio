@@ -32,9 +32,10 @@ The requirements of this project include the following:
 ## Table of Contents
 
 * [Features](#features)
-* [Technologies](#technologies-used)
-* [Images](#images-of-project)
-* [Deployed](#deployed-link)
+* [Technologies Used](#technologies-used)
+* [GIF of Project](#gif-of-project)
+* [Images of Project](#images-of-project)
+* [Deployed Link](#deployed-link)
 * [Authors](#authors)
 * [License](#license)
 
@@ -68,6 +69,10 @@ This project has a number of features including:
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [Bootstrap](https://getbootstrap.com/)
+
+## GIF of Project
+
+![gif](assets/images/portfolio.gif)
 
 ## Images of Project
 
