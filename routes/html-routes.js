@@ -7,11 +7,11 @@ module.exports = function(app) {
         res.sendFile(path.join(__dirname, "../public/index.html"));
     });
 
-    // about route loads about.html
+    // about route loads portfolio.html
     app.get("/portfolio", function(req, res) {
         res.sendFile(path.join(__dirname, "../public/portfolio.html"));
     });
-    // contact route loads contact.html
+    // contact route loads contacts.html
     app.get("/contacts", function(req, res) {
         res.sendFile(path.join(__dirname, "../public/contacts.html"));
     });
