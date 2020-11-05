@@ -1,27 +1,27 @@
 {
-  "name": "my-portfolio",
-  "version": "1.0.0",
-  "description": "In this project, I've created a functional and responsive portfolio utilizing the Bootstrap CSS Framework as well as utilizing the Bootstrap grid system so that the website and its layouts function on different devices and browsers. This project is all about consistency and functionality.",
-  "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/janessaref/my-portfolio.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/janessaref/my-portfolio/issues"
-  },
-  "homepage": "https://github.com/janessaref/my-portfolio#readme",
-  "dependencies": {
-    "express": "^4.17.1",
-    "mysql2": "^2.2.5",
-    "sequelize": "^6.3.5",
-    "sequelize-cli": "^6.2.0"
-  }
+    "name": "my-portfolio",
+    "version": "1.0.0",
+    "description": "In this project, I've created a functional and responsive portfolio utilizing the Bootstrap CSS Framework as well as utilizing the Bootstrap grid system so that the website and its layouts function on different devices and browsers. This project is all about consistency and functionality.",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/janessaref/my-portfolio.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/janessaref/my-portfolio/issues"
+    },
+    "homepage": "https://github.com/janessaref/my-portfolio#readme",
+    "dependencies": {
+        "express": "^4.16.3",
+        "mysql2": "^2.2.5",
+        "sequelize": "^6.3.5",
+        "sequelize-cli": "^6.2.0"
+    }
 }
