@@ -20,6 +20,8 @@
   "homepage": "https://github.com/janessaref/my-portfolio#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "sequelize": "^6.3.5"
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.3.5",
+    "sequelize-cli": "^6.2.0"
   }
 }
