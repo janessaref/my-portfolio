@@ -3,3 +3,17 @@
     background-color: #ffcccc;
     border-radius: 20px;
 }
+
+.picMe {
+    background-color: #ffe8e8;
+    border-radius: 20px;
+    outline: #ffe8e8;
+    outline-width: 2px;
+}
+
+#nameInput,
+#emailInput,
+#messageInput {
+    background-color: #ffe8e8;
+    border-radius: 12px;
+}
