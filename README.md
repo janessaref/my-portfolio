@@ -72,25 +72,25 @@ This project has a number of features including:
 
 ## GIF of Project
 
-![gif](assets/images/portfolio.gif)
+![gif](public/assets/images/portfolio.gif)
 
 ## Images of Project
 
 Attached below are screenshots in their screen sizes 400px, 768px, and 992px, respectively.
 
-![400](assets/images/400.png)
-![768](assets/images/768.png)
-![992](assets/images/992.png)
+![400](public/assets/images/400.gif)
+![768](public/assets/images/768.png)
+![992](public/assets/images/992.png)
 
 ## Code Snippet
 
 In this code snippet, although the requirements were to add social media links, I've decided to do a different and not too difficult approach but I utilized the social media logos abiding with their guidelines that will directly link to my accounts and open up in a new tab. I liked the simplicity of the black logos just so that it aesthetically workes well with my portfolio. 
 
-![Snippet](assets/images/code-snippet.png)
+![Snippet](public/assets/images/code-snippet.png)
 
 ## Deployed Link
 
-* [See Live Site](https://janessaref.github.io/my-portfolio/)
+* [See Live Site](https://janessarefong.herokuapp.com/)
 
 
 ## Authors
